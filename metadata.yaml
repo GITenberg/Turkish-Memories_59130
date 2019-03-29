@@ -1,5 +1,8 @@
 _repo: Turkish-Memories_59130
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59130-h/images/cover.jpg
 creator:
   author:
     agent_name: Whitman, Sidney
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '44825'
     url: http://www.gutenberg.org/2009/agents/44825
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59130#Turkish-Memories
 gutenberg_issued: '2019-03-26'
 gutenberg_type: Text
 identifiers:
